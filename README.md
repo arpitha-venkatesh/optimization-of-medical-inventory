@@ -1,8 +1,6 @@
 <h1 align="center">Medical Inventory Optimization</h1>
 
-<p align="center">
-  <img src="https://your-image-url.com" alt="Medical Inventory" width="500" height="300">
-</p>
+
 
 ## Overview
 
@@ -33,9 +31,7 @@ Improved data quality and accuracy.
 
 Utilized line graph decomposition, tree plot, 100% stacked plot, donut chart, card slicer for intuitive visualization of trends and patterns.
 
-<p align="center">
-  <img src="https://your-image-url.com" alt="Visualization" width="600" height="400">
-</p>
+
 
 ## Conclusion
 
